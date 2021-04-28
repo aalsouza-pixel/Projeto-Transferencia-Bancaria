@@ -1,0 +1,13 @@
+C:\Users\André\source\repos\Transferencia_Bancaria\bin\Debug\netcoreapp3.1\Transferencia_Bancaria.exe
+C:\Users\André\source\repos\Transferencia_Bancaria\bin\Debug\netcoreapp3.1\Transferencia_Bancaria.deps.json
+C:\Users\André\source\repos\Transferencia_Bancaria\bin\Debug\netcoreapp3.1\Transferencia_Bancaria.runtimeconfig.json
+C:\Users\André\source\repos\Transferencia_Bancaria\bin\Debug\netcoreapp3.1\Transferencia_Bancaria.runtimeconfig.dev.json
+C:\Users\André\source\repos\Transferencia_Bancaria\bin\Debug\netcoreapp3.1\Transferencia_Bancaria.dll
+C:\Users\André\source\repos\Transferencia_Bancaria\bin\Debug\netcoreapp3.1\Transferencia_Bancaria.pdb
+C:\Users\André\source\repos\Transferencia_Bancaria\obj\Debug\netcoreapp3.1\Transferencia_Bancaria.csprojAssemblyReference.cache
+C:\Users\André\source\repos\Transferencia_Bancaria\obj\Debug\netcoreapp3.1\Transferencia_Bancaria.AssemblyInfoInputs.cache
+C:\Users\André\source\repos\Transferencia_Bancaria\obj\Debug\netcoreapp3.1\Transferencia_Bancaria.AssemblyInfo.cs
+C:\Users\André\source\repos\Transferencia_Bancaria\obj\Debug\netcoreapp3.1\Transferencia_Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\Transferencia_Bancaria\obj\Debug\netcoreapp3.1\Transferencia_Bancaria.dll
+C:\Users\André\source\repos\Transferencia_Bancaria\obj\Debug\netcoreapp3.1\Transferencia_Bancaria.pdb
+C:\Users\André\source\repos\Transferencia_Bancaria\obj\Debug\netcoreapp3.1\Transferencia_Bancaria.genruntimeconfig.cache
